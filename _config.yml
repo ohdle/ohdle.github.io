@@ -1,0 +1,18 @@
+title: Pattern Engineer
+author:
+  name: Oliver Le
+  email: oliver@pattern.engineer
+description: >-
+  Principles and practices of cloud-native engineering
+baseurl: ""
+url: "https://pattern.engineer"
+
+minima:
+  social_links:
+    github:  ohdle
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
